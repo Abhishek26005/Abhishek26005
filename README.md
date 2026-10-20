@@ -20,7 +20,7 @@ Add a live demo or docs link to a project only if it really exists.
 
 <img src="./assets/hero.svg" alt="Diagram of the full-stack architecture I work with: React and React Native clients, Spring Boot and Node.js services, MySQL, MongoDB and Firebase data stores" width="100%" />
 
-<h1>Hi, I’m YOUR NAME</h1>
+<h1>Hi, I’m Abhishek Deshmukh</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&height=44&lines=Full-Stack+Developer;Java+Developer;React+Developer;Mobile+Application+Developer" alt="Animated headline cycling through Full-Stack Developer, Java Developer, React Developer and Mobile Application Developer" />
 
