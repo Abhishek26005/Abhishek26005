@@ -1,202 +1,258 @@
 <!--
-GitHub Profile README for Abhishek26005
+SETUP (this comment is invisible on GitHub; delete it when you are done)
 
-BEFORE PUBLISHING:
-1. Replace every PROJECT_REPO_URL_* placeholder with the real repository URL.
-2. Add a LinkedIn URL if you want to show LinkedIn.
-3. Remove project features or technologies that do not match your current implementation.
-4. Keep secrets, API keys, passwords, and private data out of this file.
+Use Find and Replace on the whole file:
+  YOUR_GITHUB_USERNAME     your GitHub username (stats cards, links, profile views)
+  YOUR NAME                your name (heading and banner alt text)
+  YOUR_LINKEDIN_USERNAME   the last part of your LinkedIn profile URL
+  YOUR_EMAIL               your professional email address
+  YOUR_PORTFOLIO_URL       full portfolio URL starting with https:// (no portfolio? delete both Portfolio badges)
+
+Repository names, one per project:
+  MEDITRACK_REPO, ECOMMERCE_REPO, BLOG_REPO, CHAT_REPO, COLLEGE_REPO, NEWS_REPO,
+  HOTEL_REPO, ATTENDANCE_REPO, TODO_REPO, CALCULATOR_REPO
+
+Also upload the assets folder next to this file. The hero banner is assets/hero.svg.
+Add a live demo or docs link to a project only if it really exists.
 -->
 
 <div align="center">
 
-<!-- Animated typing banner. If the external service is unavailable, the heading below still identifies the profile. -->
-<a href="https://github.com/Abhishek26005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Abhishek+Deshmukh;Full-Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+useful+web+and+mobile+apps" alt="Typing introduction: Abhishek Deshmukh, Full-Stack Developer" />
-</a>
+<img src="./assets/hero.svg" alt="Diagram of the full-stack architecture I work with: React and React Native clients, Spring Boot and Node.js services, MySQL, MongoDB and Firebase data stores" width="100%" />
 
-# Abhishek Deshmukh
+<h1>Hi, I’m YOUR NAME</h1>
 
-### Full-Stack Developer · Java Developer · Mobile App Developer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&height=44&lines=Full-Stack+Developer;Java+Developer;React+Developer;Mobile+Application+Developer" alt="Animated headline cycling through Full-Stack Developer, Java Developer, React Developer and Mobile Application Developer" />
 
 <p>
-  <a href="https://github.com/Abhishek26005">
-    <img src="https://img.shields.io/badge/GitHub-Abhishek26005-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="mailto:abhishekdeshmukh655@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhishek" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-14B8A6?style=for-the-badge" alt="Open to collaboration" />
+  BCA graduate and MCA student building full-stack web and mobile applications<br />
+  with React, Spring Boot, Node.js and React Native.
 </p>
 
-*I build practical web and mobile applications with a focus on useful features, maintainable code, and clear user experiences.*
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Send me an email" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=A78BFA" alt="Portfolio website" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=2F81F7&style=flat-square" alt="Profile views counter" />
+</p>
 
 </div>
 
----
+## About
 
-## 👋 About Me
+I’m a BCA graduate, now pursuing an MCA, who likes turning ideas into working software. Most of my projects are built end to end: the interface in React, the API in Spring Boot or Node.js, and the data in MySQL, MongoDB or Firebase. Lately I’ve been extending that into mobile apps with React Native.
 
-I'm a BCA graduate interested in full-stack development and mobile application engineering. I've worked on projects spanning blogging, e-commerce, real-time chat, news aggregation, and management systems.
+I like applications that are simple to use and easy to maintain: clear user flows, predictable APIs, and code a teammate can pick up quickly. I’m strengthening my backend and mobile skills, and I’m open to collaborating on projects and to software engineering opportunities.
 
-- 💻 I work with **React, Java, Spring Boot, Node.js, PHP, and JavaScript**.
-- 🗄️ I have used **MySQL, MongoDB, and Firebase** in application projects.
-- 📱 I'm developing **MediTrack**, a React Native medicine reminder and adherence-tracking application.
-- 🧩 I enjoy turning requirements into practical features and learning by building projects.
-- 🤝 I'm interested in collaborating on useful software and continuing to grow as a developer.
+## Tech Stack
 
-> I aim to keep learning, write understandable code, and build applications that solve real problems.
+Technologies I have used in my projects.
 
-## 🧰 Tech Stack
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/-Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases and services</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools and APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-REST_APIs-161B22?style=flat-square&logo=json&logoColor=FFFFFF" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/-RapidAPI-161B22?style=flat-square&logo=rapidapi&logoColor=0055DA" alt="RapidAPI" />
+    </td>
+  </tr>
+</table>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML, CSS, JavaScript, React, Bootstrap" />
-</p>
+<!-- Only list tools you have really used. To add one, copy a badge line and change the name, logo and logoColor. -->
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php" alt="Java, Spring, Node.js, PHP" />
-</p>
+## Featured Projects
 
-### Databases and services
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="MySQL, MongoDB, Firebase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Git, GitHub, Visual Studio Code, Android Studio" />
-</p>
-
-**Also used:** REST APIs, RapidAPI, PHPMailer, dompdf, Socket-based messaging, and Notifee.
-
----
-
-## 🚀 Featured Projects
-
-> Repository URLs are intentionally left as placeholders until the exact links are supplied. Replace them before publishing; do not leave placeholder links in the final public profile.
-
-### 💊 MediTrack — Medicine Reminder & Adherence App
-
-A React Native mobile application project focused on medication schedules, reminders, dose history, and caregiver-related workflows.
-
-- **Technologies:** React Native, Firebase services, Notifee, React Navigation
-- **Focus areas:** Medication management, reminder scheduling, adherence history, caregiver features
-- **Source code:** `PROJECT_REPO_URL_MEDITRACK`
-
-### 🛒 E-commerce Website
-
-A full-stack shopping application built with a React frontend and a Java backend.
-
-- **Technologies:** React, Spring Boot, MySQL/XAMPP, PHPMailer, dompdf
-- **Focus areas:** E-commerce workflows and backend/database integration
-- **Source code:** `PROJECT_REPO_URL_ECOMMERCE`
-
-### ✍️ Blogging Web Application
-
-A blogging project with authentication and a full-stack application setup.
-
-- **Technologies:** React, Vite, Firebase Authentication, Node.js, MongoDB
-- **Focus areas:** Google sign-in and blogging functionality
-- **Source code:** `PROJECT_REPO_URL_BLOGGING`
-
-### 💬 Web Chat Application
-
-A web messaging project designed around real-time communication.
-
-- **Technologies:** React, Node.js, MongoDB, socket-based messaging
-- **Focus areas:** Real-time messaging and application/backend integration
-- **Source code:** `PROJECT_REPO_URL_WEB_CHAT`
-
-### 🎓 College Management System
-
-A college management project that also includes room-booking functionality.
-
-- **Technologies:** Bootstrap, PHP, MySQL/XAMPP, PHPMailer, dompdf
-- **Focus areas:** Management workflows, email functionality, PDF generation
-- **Source code:** `PROJECT_REPO_URL_COLLEGE_MANAGEMENT`
-
-### 🌍 News Grabbing Application
-
-A news aggregation frontend that retrieves news from different countries through an API.
-
-- **Technologies:** HTML, CSS, JavaScript, RapidAPI
-- **Focus areas:** API integration and presenting news from multiple regions
-- **Source code:** `PROJECT_REPO_URL_NEWS`
-
----
-
-## 🧪 More Projects
-
-These projects can be moved into the featured section as their repositories, screenshots, and documentation are ready.
-
-| Project | Summary | Technologies | Repository |
-|---|---|---|---|
-| Hotel Management System | Hotel management application | React, Spring Boot, MySQL/XAMPP, react-pdf | `PROJECT_REPO_URL_HOTEL` |
-| Face Attendance System | Face-recognition attendance project | Python, OpenCV, MySQL/XAMPP | `PROJECT_REPO_URL_FACE_ATTENDANCE` |
-| Calculator Application | Calculator built as a frontend project | React, Vite, JavaScript *(confirm current implementation)* | `PROJECT_REPO_URL_CALCULATOR` |
-| To-Do List | Task-management application | React, Vite, JavaScript *(confirm current implementation)* | `PROJECT_REPO_URL_TODO` |
-
-**Project-link checklist:** Replace each `PROJECT_REPO_URL_*` value with the real repository URL. Add a live demo only if that project is actually deployed. Remove any technologies or features that are not present in the repository.
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/Abhishek26005">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek26005&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics for Abhishek26005" />
-</a>
-<a href="https://github.com/Abhishek26005">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek26005&layout=compact&hide_border=true&theme=transparent" alt="Most-used public repository languages for Abhishek26005" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek26005&hide_border=true&theme=transparent" alt="GitHub contribution streak for Abhishek26005" />
-
-</div>
-
-<sub>These cards rely on third-party services and may be unavailable or rate-limited. Their metrics can differ from GitHub's own displays and do not represent private repository data.</sub>
-
----
-
-## 🌱 Current Focus
-
-- Building and refining the MediTrack mobile application.
-- Improving full-stack development skills with React and Spring Boot.
-- Practicing Java, database integration, REST APIs, and application architecture.
-- Improving accessibility, security, and maintainability in projects.
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/Abhishek26005">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Visit GitHub profile" />
-</a>
-<a href="mailto:abhishekdeshmukh655@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhishekdeshmukh655%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
-
-</div>
-
-<!-- Optional: add a LinkedIn badge after you have the exact profile URL.
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-</a>
+<!--
+To add a screenshot to a project, save it in assets/screenshots/ and paste this under the project description:
+<img src="./assets/screenshots/NAME.png" alt="Describe what the screenshot shows" width="100%" />
+Keep every screenshot the same width so the section stays tidy.
 -->
 
----
+### MediTrack
+
+> [!NOTE]
+> MediTrack is in active development. The sign-in and sign-up screens are built and the core screens are designed. The features below are the planned scope.
+
+A medication management app that helps people take their medicines on time and keeps track of how consistently they do.
+
+**Stack:** `React Native` `Expo` `Firebase` `Tailwind CSS`
+
+**Planned core features**
+- Prescription scanning with OCR, with an online lookup when the text is hard to read
+- Dose reminders, including a heads-up shortly before a medicine is due
+- Drug interaction checking
+- Dosage and tablet-count tracking
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/MEDITRACK_REPO)
+
+### E-commerce Website
+
+An online store where customers browse products and place orders, built as a React front end on top of a Spring Boot REST API.
+
+**Stack:** `React` `Spring Boot` `MySQL`
+
+**Highlights**
+- React single-page storefront for browsing products and ordering
+- REST API layer built with Spring Boot
+- Relational data model stored in MySQL
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/ECOMMERCE_REPO)
+
+### Blogging Web Application
+
+A blogging platform for writing and reading posts, with a React interface and a Node.js and MongoDB back end, plus Firebase services.
+
+**Stack:** `React` `Firebase` `Node.js` `MongoDB`
+
+**Highlights**
+- React interface for writing and reading posts
+- Node.js server with MongoDB for data storage
+- Firebase services integrated into the app
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/BLOG_REPO)
+
+### Web Chat Application
+
+A real-time chat app where people exchange messages instantly over sockets.
+
+**Stack:** `React` `Node.js` `MongoDB` `Sockets`
+
+**Highlights**
+- Real-time, socket-based messaging
+- Node.js server with MongoDB for persistence
+- React client interface
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/CHAT_REPO)
+
+### College Management System
+
+A web application for managing college information, with a PHP back end, a database and a responsive Bootstrap interface.
+
+**Stack:** `PHP` `Bootstrap`
+
+**Highlights**
+- PHP server-side logic with database-backed records
+- Responsive interface built with Bootstrap
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/COLLEGE_REPO)
+
+### News Grabbing Application
+
+A news app that pulls the latest headlines from an external API using RapidAPI.
+
+**Stack:** `JavaScript` `RapidAPI`
+
+**Highlights**
+- Fetches and displays live articles from a REST API
+- API access handled through RapidAPI
+
+[Source code](https://github.com/YOUR_GITHUB_USERNAME/NEWS_REPO)
+
+<!-- Live demo or docs link: add it next to a project's Source code link only when a real deployment or document exists. -->
+
+## GitHub Analytics
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D1117&border_color=30363D&border_radius=12&title_color=58A6FF&text_color=C9D1D9&icon_color=A78BFA&ring_color=58A6FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&border_radius=12&title_color=0969DA&text_color=24292F&icon_color=8250DF&ring_color=0969DA">
+  <img alt="GitHub stats card: stars, commits, pull requests and issues" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D1117&border_color=30363D&border_radius=12&title_color=58A6FF&text_color=C9D1D9&icon_color=A78BFA&ring_color=58A6FF" width="400" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&card_width=400&bg_color=0D1117&border_color=30363D&border_radius=12&title_color=58A6FF&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&card_width=400&bg_color=FFFFFF&border_color=D0D7DE&border_radius=12&title_color=0969DA&text_color=24292F">
+  <img alt="Most used programming languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&card_width=400&bg_color=0D1117&border_color=30363D&border_radius=12&title_color=58A6FF&text_color=C9D1D9" width="400" />
+</picture>
 
-*Feel free to explore my repositories and connect about software development.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=30363D&border_radius=12&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=FFFFFF&border=D0D7DE&border_radius=12&stroke=D0D7DE&ring=0969DA&fire=F78166&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A">
+  <img alt="GitHub contribution streak: total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=30363D&border_radius=12&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="500" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&title_color=58A6FF&border_color=30363D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Activity&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&area_color=0969DA&title_color=0969DA&border_color=D0D7DE">
+  <img alt="Contribution activity graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&title_color=58A6FF&border_color=30363D" width="100%" />
+</picture>
+
+<p>
+  <sub>These cards are generated from public GitHub data by third-party services (GitHub Readme Stats, GitHub Streak Stats and GitHub Readme Activity Graph). They are not official GitHub analytics, and a card can briefly fail to load if its service is rate limited.</sub>
+</p>
+
+</div>
+
+## Current Focus
+
+- **Building:** CodeHack, a coding-challenge and hackathon platform for my MCA project (React Native app, React admin panel, Node.js and MongoDB back end, Judge0 for running code), and MediTrack.
+- **Learning:** React Native with Expo, Firebase Authentication and Firestore, and Judge0 for code execution.
+- **Exploring:** OCR for scanning prescriptions, safe execution of user-submitted code, and reminder and notification design.
+- **Open to collaborating on:** full-stack web apps, mobile apps and hackathon-style builds.
+
+<!-- Edit these four lines whenever your focus changes. -->
+
+## More Projects
+
+| Project | What it does |
+| --- | --- |
+| [Hotel Management System](https://github.com/YOUR_GITHUB_USERNAME/HOTEL_REPO) | Hotel operations management |
+| [Face Attendance System](https://github.com/YOUR_GITHUB_USERNAME/ATTENDANCE_REPO) | Attendance marking with face recognition |
+| [To-Do List Application](https://github.com/YOUR_GITHUB_USERNAME/TODO_REPO) | Simple task tracking |
+| [Calculator Application](https://github.com/YOUR_GITHUB_USERNAME/CALCULATOR_REPO) | Everyday calculations |
+
+## Contact
+
+<div align="center">
+
+<p>I’m open to collaboration and software engineering opportunities. Reach out through any of these.</p>
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub profile" height="30" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" height="30" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Send me an email" height="30" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=A78BFA" alt="Portfolio website" height="30" /></a>
+</p>
+
+<p><sub>Thanks for stopping by.</sub></p>
 
 </div>
